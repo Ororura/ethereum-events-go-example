@@ -32,7 +32,7 @@ The Go application connects to an Ethereum node, subscribes to smart contract ev
 5. Update the contract address in the `main.go` file.  
 6. Run the application:  
     ```bash  
-    go run main.go  
+    go run cmd/main.go  
     ```  
 
 ## Usage Example  
@@ -94,7 +94,7 @@ The project is distributed under the MIT license.
 5. Обновите адрес контракта в файле `main.go`.  
 6. Запустите приложение:  
     ```bash  
-    go run main.go  
+    go run cmd/main.go    
     ```  
 
 ## Пример использования  
